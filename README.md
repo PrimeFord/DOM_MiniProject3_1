@@ -1,5 +1,4 @@
 # DOM_MiniProject3_1
-# DOM_MiniProject2_2
 
 _An implementation of DOM Mini Project 3 No.1 website Project with HTML/CSS_
 
