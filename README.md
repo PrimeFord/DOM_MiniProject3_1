@@ -1,6 +1,6 @@
 # DOM_MiniProject3_1
 
-_An implementation of DOM Mini Project 3 No.1 website Project with HTML/CSS_
+_An implementation of DOM Mini Project 3 No.1 website Project with HTML/JavaScript_
 
 ## Getting Started
 
