@@ -17,7 +17,6 @@ Clone or download this repository and run with a local server of open `index.htm
 ## Tech/framework used
 
 - HTML
-- CSS
 - JAVASCRIPT
 
 ## Demo
